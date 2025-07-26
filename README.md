@@ -69,10 +69,7 @@ Emotion_Classifier_1.ipynb <- Notebook with code and evaluation
 The main interface is built using *Streamlit* and can be launched with a simple command:
 
 
-
-```bash
-
-streamlit run Emotion_Analyzer.py
+*streamlit run Emotion_Analyzer.py*
 
 
 
