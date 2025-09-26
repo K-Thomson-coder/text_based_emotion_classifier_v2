@@ -27,3 +27,8 @@ def clean(string) :
     tmp = _remove_numbers_(tmp)
     tmp = _remove_punctuation_(tmp)
     return tmp
+
+def main() :
+    pass
+if __name__ == "__main__" :
+    main()
